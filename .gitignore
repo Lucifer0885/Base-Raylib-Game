@@ -1,0 +1,15 @@
+/out
+bin/
+build/
+
+/.vs
+.idea/
+.vscode/
+.cursor/
+CMakeSettings.json
+Makefile
+
+settings/
+saves/
+
+*.log
